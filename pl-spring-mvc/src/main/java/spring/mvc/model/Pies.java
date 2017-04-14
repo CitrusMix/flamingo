@@ -22,7 +22,7 @@ public class Pies {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private Long id;
 
-	private String name;
+	private String surname;
 
 	private String placeOfFind;
 
